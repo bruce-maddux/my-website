@@ -5,17 +5,16 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          My website has been moved to a new link, check it out here!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://bruce-maddux.github.io"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My Website
         </a>
       </header>
     </div>
